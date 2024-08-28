@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+img{
+    width:150px ;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+#center{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+#cor{
+    color: blue;
+}
+.titulo{
+    color: green;
+}
+.container{
+    padding: 0px 50px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav a:hover{
+    color: green;
+}
+a input:hover{
+    color: chartreuse;
+    background-color: green;
+ 
+}
